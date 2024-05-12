@@ -8,6 +8,7 @@ body{
 h1{
     text-align: center;
     text-decoration: underline double;
+
 }
 .main-nav{
   display: grid;
@@ -73,6 +74,19 @@ h2{
   display: block;
   border-radius: 8px;
 }
+.logo{
+  width: 30%;
+  height: auto;
+
+}
+.main-grid-logo{
+   display: grid;
+  grid-template-columns: auto auto;
+  grid-gap: 10px;
+  margin-bottom: 0;
+   
+}
+
 
 
 
